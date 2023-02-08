@@ -1,2 +1,2 @@
 # Java-Backend
-Use Netbeans
+Use Netbeans with this project
